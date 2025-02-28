@@ -27,14 +27,8 @@ Welcome to **Ruby Manor**, a stunning hotel website designed to showcase the ele
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Ayush-Pathak2006/ruby-manor.git
+   git clone https://github.com/Ayush-Pathak2006/A-ruby-manor-Frontend-.git
    ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd ruby-manor
-   ```
-3. **Open **``** in your browser**
-
 ---
 
 ## 🎨 Color Palette
